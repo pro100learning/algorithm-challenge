@@ -1,5 +1,7 @@
 # 349. Intersection of Two Arrays #
 
+## Level: Easy ##
+
 Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may return the result in any order.
 
 ### Example 1: ###
@@ -20,4 +22,4 @@ Explanation: [4,9] is also accepted.
 0 <= nums1[i], nums2[i] <= 1000
 ```
 
-link: `https://leetcode.com/problems/intersection-of-two-arrays/description/`
+link: `https://leetcode.com/problems/intersection-of-two-arrays/`

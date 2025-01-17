@@ -1,5 +1,7 @@
 # 349. Intersection of Two Arrays #
 
+## Level: Easy ##
+
 Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may return the result in any order.
 
 ### Example 1: ###
@@ -36,4 +38,4 @@ The third distinct maximum is 1.
 -231 <= nums[i] <= 231 - 1
 ```
 
-link: `https://leetcode.com/problems/third-maximum-number/description/`
+link: `https://leetcode.com/problems/third-maximum-number/`
